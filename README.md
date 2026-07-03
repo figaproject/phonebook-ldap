@@ -81,6 +81,5 @@ Start after Windows boot using Task Scheduler
 
 This makes the phonebook server available automatically after a PC restart.
 
-Notes
 
-This project is intended for local network use. If you plan to expose it outside your LAN, use additional security measures such as VPN, firewall rules, HTTPS reverse proxy, and strong passwords.
+
